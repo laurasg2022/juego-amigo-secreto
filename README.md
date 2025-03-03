@@ -3,8 +3,6 @@
 ## Descripción
 Este proyecto es una aplicación web sencilla que permite a los usuarios ingresar nombres de amigos en una lista y realizar un sorteo aleatorio para determinar quién será el "amigo secreto".
 
-![Amigo Secreto](https://via.placeholder.com/600x300?text=Amigo+Secreto)
-
 ## ✨ Funcionalidades
 - **📝 Agregar nombres**: Los usuarios pueden ingresar nombres en un campo de texto y agregarlos a la lista al hacer clic en el botón "Adicionar".
 - **⚠️ Validar entrada**: Si el usuario intenta agregar un campo vacío, el programa mostrará una alerta solicitando un nombre válido.
